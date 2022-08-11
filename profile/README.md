@@ -17,5 +17,5 @@ Feel free to work on whatever projects are interesting to you, at your own pace.
 
 ## License
 
-New projects should be made using the GPLv3 license.
+New projects should be made using the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
 Since this is an educational organization, we care about sharing improvements.
